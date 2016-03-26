@@ -1,0 +1,6 @@
+Django==1.9.4
+django-bootstrap3
+sorl-thumbnail
+pillow
+redis
+django-allauth
